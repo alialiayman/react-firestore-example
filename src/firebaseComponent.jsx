@@ -7,14 +7,7 @@ import { collection, addDoc, doc, getDocs, setDoc, deleteDoc } from "firebase/fi
 
 
 const firebaseConfig = {
-    // apiKey: "AIzaSyDCH-INJkG1yntRzPe9MfbXw5ggUEqHMJg",
-    // authDomain: "breno-tours.firebaseapp.com",
-    // databaseURL: "https://breno-tours-default-rtdb.asia-southeast1.firebasedatabase.app",
-    // projectId: "breno-tours",
-    // storageBucket: "breno-tours.appspot.com",
-    // messagingSenderId: "628782122689",
-    // appId: "1:628782122689:web:f277523e75398839b33640",
-    // measurementId: "G-HCQJDQE6D1"
+
 };
 
 // Initialize Firebase
